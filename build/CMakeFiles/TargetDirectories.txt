@@ -1,0 +1,9 @@
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/Experimental.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/Nightly.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/Continuous.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/PRO_test.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/PACKAGE.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/neman/OneDrive/Documents/FERI/RG/PRO_test/build/CMakeFiles/ZERO_CHECK.dir
